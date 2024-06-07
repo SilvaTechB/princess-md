@@ -164,7 +164,7 @@ async function connectToWA() {
             } else {
                 if (_0x56cc55.KqgZt(_0x5a2d0a, _0x56cc55.wLDqu)) {
                     console.log('Connected...', _0x412252);
-                    const _0x317e2e = { text: '*hi bro! I\'m VAJIRA MD V4 \uD83E\uDEE1*\n_\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ4 \uD83D\uDC68‍\uD83D\uDCBB bot has successfully connected to the server\nNow enjoy the bot\n\n*OWNER NO :-* https://wa.me/94719199757\n*MY CHANNEL :-* https://youtube.com/@gamingewingyt6216?si=IHmBhi2R69ao6jcG_' };
+                    const _0x317e2e = { text: '*Hello! I\'m PRINCESS MD V1 \uD83E\uDEE1*\n_\uD83D\uDC68‍\uD83D\uDCBB PRINCESS - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB bot has successfully connected to the server\nNow enjoy the bot\n\n*OWNER NO :-* https://wa.me/254743706010\n*MY CHANNEL :-* https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_' };
                     ;
                     _0xe2462d.sendMessage(_0x56cc55.ShqNQ, _0x317e2e);
                 }
@@ -570,7 +570,7 @@ async function connectToWA() {
                                             ;
                                             ;
                                             const _0x3d7cf8 = {
-                                                title: '\uD83D\uDC68‍\uD83D\uDCBB ＶＡＪＩＲＡ - ＭＤ - Ｖ4 \uD83D\uDC68‍\uD83D\uDCBB',
+                                                title: '\uD83D\uDC68‍\uD83D\uDCBB PRINCESS - ＭＤ - Ｖ1 \uD83D\uDC68‍\uD83D\uDCBB',
                                                 body: _0x56cc55.RdJRO,
                                                 mediaType: 1,
                                                 sourceUrl: _0x56cc55.RHWjj,
@@ -627,7 +627,7 @@ async function connectToWA() {
                                                 title: _0x56cc55.vwvKX,
                                                 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
                                                 mediaType: 1,
-                                                sourceUrl: 'https://wa.me/94719199757',
+                                                sourceUrl: 'https://wa.me/254743706010',
                                                 thumbnailUrl: 'https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg',
                                                 renderLargerThumbnail: false,
                                                 showAdAttribution: true
@@ -703,7 +703,7 @@ async function connectToWA() {
                                                     ;
                                                     return _0x342ab8.Ljvte(_0x55fd9f, _0x48eb8a);
                                                 },
-                                                'mPnCd': '\uD83D\uDC64Hello, because we want to reduce spam, please use the bot in a group!\n\nIf there are joint interests, please type .owner to contact the owner.\n\nආයුබෝවන්, අපට අයාචිත තැපැල් අඩු කිරීමට අවශ්‍ය නිසා, කරුණාකර කණ්ඩායමක් තුළ bot භාවිතා කරන්න!\n\nහවුල් අවශ්‍යතා තිබේ නම්, කරුණාකර හිමිකරු සම්බන්ධ කර ගැනීමට .owner ලෙස හෝ .request ලෙස ටයිප් කර ඔබට තිබෙන ගැටලුව ටයිප් කරන එවන්න. එවිට බොට් මගින් ඔටෝම හිමිකරුට එම පනිවුඩය යවයි.',
+                                                'mPnCd': '\uD83D\uDC64Hello, because we want to reduce spam, please use the bot in a group!\n\nIf there are joint interests, please type .owner to contact the owner.\n\nthank you for choosing princess md!\n\n🫂🩸❤️',
                                                 'xeMhk': _0x342ab8.OQqHQ,
                                                 'HOcxE': _0x342ab8.BPNFY
                                             }, _0x2510ab = '' + _0x342ab8.rsBcD(_0x4ebf25, 1);
