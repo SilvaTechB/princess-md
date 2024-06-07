@@ -1,9 +1,9 @@
 {
-"name": "VAJIRA-MD",    
+"name": "princess-md",    
 "version": "2.0.6",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
-"stop": "pm2 stop VAJIRA-MD",
+"start": "pm2 start index.js --deep-monitoring --attach --name princess-md",
+"stop": "pm2 stop princess-md",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
